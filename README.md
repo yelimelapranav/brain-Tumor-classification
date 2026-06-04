@@ -46,6 +46,8 @@ Due to GitHub storage limitations, the dataset is not included in this repositor
   <img src="assets/architecture.png" width="100%">
 </p>
 
+---
+
 ### Model Pipeline
 
 MRI Image (224×224×3)

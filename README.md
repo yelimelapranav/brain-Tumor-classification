@@ -258,22 +258,6 @@ Brain-Tumor-Classification-Fusion-Attention/
 
 ---
 
-## Citation
-
-If you use this work in your research, please consider citing:
-
-```bibtex
-@misc{brain_tumor_fusion_attention,
-  title={Brain Tumor Classification using Fusion Attention Network},
-  author={Pranav},
-  year={2026}
-}
-```
-
----
-
-## Author
-
 **Pranav**
 
 Deep Learning | Computer Vision | Medical Imaging | AI Research

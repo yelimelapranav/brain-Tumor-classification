@@ -93,7 +93,7 @@ Softmax Classification (4 Classes)
 ## MRI Dataset Samples
 
 <p align="center">
-  <img src="assets/mri_samples.png" width="100%">
+  <img src="data_samples/brain_img.png" width="100%">
 </p>
 
 ---
@@ -101,7 +101,7 @@ Softmax Classification (4 Classes)
 ## Experimental Results
 
 <p align="center">
-  <img src="assets/results.png" width="100%">
+  <img src="results/confusion_matrix.png" width="100%">
 </p>
 
 ### Classification Report

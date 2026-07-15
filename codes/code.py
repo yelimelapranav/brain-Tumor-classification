@@ -2,6 +2,7 @@
 import tensorflow as tf
 import numpy as np
 import matplotlib.pyplot as plt
+import seaborn as sns
 
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
 from tensorflow.keras.applications import EfficientNetB0, DenseNet121, ResNet50
